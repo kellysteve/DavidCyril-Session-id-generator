@@ -1,7 +1,7 @@
 {
     "name": "Wasi Session Generator",
-    "description": "I'm Web Session Generator by Itxx Me Wasi",
-    "logo": "",
+    "description": "I'm Web Session Generator by Kelvin",
+    "logo": "https://files.catbox.moe/mx31gg.jpg",
     "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
